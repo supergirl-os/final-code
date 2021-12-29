@@ -1,0 +1,2 @@
+my_LMSE和my_perceptron是课堂例题的实现
+reading是mnist数据集的三维空间可视化
